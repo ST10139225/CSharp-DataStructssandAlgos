@@ -1,0 +1,15 @@
+C:\Users\RC_Student_lab\source\repos\Data structures\bin\Debug\net8.0\Data structures.exe
+C:\Users\RC_Student_lab\source\repos\Data structures\bin\Debug\net8.0\Data structures.deps.json
+C:\Users\RC_Student_lab\source\repos\Data structures\bin\Debug\net8.0\Data structures.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\Data structures\bin\Debug\net8.0\Data structures.dll
+C:\Users\RC_Student_lab\source\repos\Data structures\bin\Debug\net8.0\Data structures.pdb
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.sourcelink.json
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.dll
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\refint\Data structures.dll
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.pdb
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\Data structures.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\Data structures\obj\Debug\net8.0\ref\Data structures.dll
