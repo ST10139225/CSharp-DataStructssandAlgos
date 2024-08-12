@@ -30,7 +30,7 @@ public static class selectionSorting
 
 }
 
-    private static void Swap<T>(T[] array, int i, int minIndex) where T : IComparable
+    public static void Swap<T>(T[] array, int i, int minIndex) where T : IComparable
     {
         T temp =  array[i];
         array[i] = array[minIndex]; 
